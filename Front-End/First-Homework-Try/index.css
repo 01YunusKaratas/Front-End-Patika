@@ -1,0 +1,35 @@
+
+.jumbotron {
+    background-color: #f8f9fa; /* Jumbotron arka plan rengi */
+    padding: 2rem 1rem;
+}
+.jumbotron-fluid {
+    margin: 0;
+    padding: 2rem 1rem;
+}
+#h3-jm {
+    margin-top: 1rem;
+}
+#p-jm {
+    margin-top: 1rem;
+}
+ul {
+    margin-top: 1rem;
+}
+
+.center-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card-img-top{
+    width: 200px;
+    height: 200px;
+
+}
+body{
+    overflow-y:scroll   ;
+}
+
