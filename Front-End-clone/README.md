@@ -23,6 +23,4 @@ Bu proje, Instagram uygulamasının kullanıcı arayüzünü klonlamak amacıyla
 ## Kurulum
 
 1. **Gerekli Kütüphaneler**: Bottspratp 4.5 yüklü olmalıdır.
-2. **Proje Dosyalarını İndirme**: Bu repoyu bilgisayarınıza klonlayın.
-   ```bash
-   git clone https://github.com/username/repository-name.git
+
