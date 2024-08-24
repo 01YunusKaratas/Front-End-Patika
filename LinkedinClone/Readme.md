@@ -29,7 +29,7 @@ LinkedIn Clone projesine ait bazı ekran görüntüleri:
 
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/01YunusKaratas/Front-End-Patika.git
+   git clone https://github.com/01YunusKaratas/Front-End-Patika
    
 2.Proje dizinine gidin:
     cd Front-End-Patika/LinkedinClone
