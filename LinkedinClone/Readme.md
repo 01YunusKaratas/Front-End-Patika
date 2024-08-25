@@ -38,7 +38,6 @@ LinkedIn Clone projesine ait bazı ekran görüntüleri:
 ##Kullanılan Teknolojiler
 -HTML
 -CSS
--Bootstrap
--Teşekkürler
+-Bootstrapt4.5
 
 
