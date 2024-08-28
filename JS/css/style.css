@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(68, 201, 216);
+}
+.container{
+    margin: auto;
+    background-color: antiquewhite;
+    width: 150px;
+    height: 25px;
+    text-align: center;
+}
+.col-sm-4{
+    margin: auto;
+}
