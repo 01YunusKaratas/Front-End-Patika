@@ -22,5 +22,5 @@ Bu proje, Instagram uygulamasının kullanıcı arayüzünü klonlamak amacıyla
 
 ## Kurulum
 
-1. **Gerekli Kütüphaneler**: Bottspratp 4.5 yüklü olmalıdır.
+1. **Gerekli Kütüphaneler**: Bottspratp 4.5 yüklü olmalıdır, Tabiki diğer sürümleri içinde içindeki birkaç kod değişikliği ile çalışıır.
 
