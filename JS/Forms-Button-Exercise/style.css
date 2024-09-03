@@ -1,0 +1,51 @@
+body{
+    background-color: #0D1117;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.container{
+    margin: auto;
+    border: 2px solid black;
+    background-color: antiquewhite;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6rem;
+    transition: background-color 0.5s ease, transform 0.5s ease; /* Geçiş yapılacak özellikler */
+
+}
+.container:hover {
+    background-color: rgb(186, 129, 49); /* Arka plan rengini değiştirme */
+    transform: scale(1.05); /* Hafif bir büyüme efekti */
+}
+#userForm{
+   margin: 5px;
+    padding: 3px;
+    
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    
+}
+.mr-2{
+    margin-right:10px;
+}
+
+.btn{
+    margin-left: 10px;
+}
+label{
+    text-align: left;
+    font-family: sans-serif;
+    font-size: medium;
+    
+}
+
+
+
